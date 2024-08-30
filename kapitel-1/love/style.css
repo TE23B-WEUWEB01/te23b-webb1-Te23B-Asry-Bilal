@@ -1,0 +1,27 @@
+body {
+    background-color: darkcyan;
+    background-image: url("./bilder/nedladdning.webp");
+}
+h1 {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+h2 {
+    color: rgb(255, 6, 197);
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: rgb(3, 6, 9);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+strong {
+    color: blue;
+}
+a {
+    color: blueviolet;
+}
