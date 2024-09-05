@@ -1,0 +1,38 @@
+body {
+    background-image: url("./bilder/oppna-landskap1.jpg");
+    background-attachment: fixed;
+    background-size: cover; 
+
+}
+
+h1 {
+    font-family: "Roboto";
+    background-color: rgba(200, 196, 224, 0.479);
+    margin-left: 40px;
+    width: 400px;
+}
+
+h2 {
+
+}
+
+p {
+  font-family: "oswald";
+  background-color: rgba(200, 196, 224, 0.479);
+  width: 400px;
+  padding: 10px;
+  margin-left: 40px;
+  border-radius: 5px;
+}
+
+a {
+
+}
+
+strong {
+
+}
+
+img {
+  width: 100px;
+}
