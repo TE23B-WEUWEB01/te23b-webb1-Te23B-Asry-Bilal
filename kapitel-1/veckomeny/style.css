@@ -1,0 +1,24 @@
+body {
+ background-color: rgba(196, 21, 215, 0.361);
+}
+
+caption {
+ background-color: rgba(0, 0, 255, 0.279);
+ font-size: 50px;
+}
+
+table {
+ 
+}
+tr {
+    background-color: rgba(0, 0, 255, 0.279);
+}
+th {
+    background-color: rgba(255, 255, 255, 0.212);
+}
+td {
+    background-color: rgba(0, 0, 255, 0.279);
+}
+img {
+    width: 150px;
+}
