@@ -1,0 +1,41 @@
+body {
+    background-image: url(./bilder/beach-6292382_640.jpg);
+
+}
+
+h1 {
+    font-family: "Moderustix", sans-serif;
+    font-size: 100px;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 0 pink;
+    margin-top: 100px;
+}
+
+h2 {
+    font-family: "Moderustix", sans-serif;
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 3px 3px 0 pink;
+    margin-top: 50px;
+}
+
+p {
+    font-family: "Moderustix", sans-serif;
+    font-size: 25px;
+    margin-top: 120px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: pink;
+    padding-left: 5opx;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+
+}
