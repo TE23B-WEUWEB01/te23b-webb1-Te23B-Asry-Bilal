@@ -1,0 +1,26 @@
+body{
+    background-image: url(./bilder/morocco.jfif);
+    background-size: cover;
+}
+h1{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.507);
+}
+h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.377);
+
+}
+p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.303);
+}
+
+li{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.415);
+}
+img{
+    width: 525px;
+    
+}
