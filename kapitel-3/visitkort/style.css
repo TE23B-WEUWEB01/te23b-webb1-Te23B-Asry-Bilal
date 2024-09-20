@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Sofadi+One&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(98, 96, 96);
+}
+
+div{
+    background-image: url("./bilder/ilya-pavlov-OqtafYT5kTw-unsplash\ \(1\).jpg");
+    width: 500px;
+    height: 250px;
+    margin-top: 200px;
+    padding-right: 0px;
+    margin-bottom: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 300px;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.262);
+
+}
+
+h1{
+    font-family: "Fascinate Inline", system-ui;
+    color: white;
+}
+ 
+h2{
+    font-family: "Sofadi One", system-ui;
+    color: white;
+}
+
+p{
+    font-family: "Sofadi One", system-ui;
+    color: white;
+}
+
