@@ -1,3 +1,13 @@
+
+
+:root{
+    --sea-green: #388659ff;
+    --pigment-green: #52aa5eff;
+    --zomp: #52aa8aff;
+    --process-cyan: #3aaed8ff;
+    --vivid-sky-blue: #2bd9feff;
+}
+
 /* Enkel CSS-reset */
 html {
     box-sizing: border-box;

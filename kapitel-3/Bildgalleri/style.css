@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Sixtyfour+Convergence&display=swap');
+
+body{
+
+}
+h1{
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+h2{
+    font-family: "Agdasima", sans-serif;
+}
+p{
+    
+}
+.box{
+  font-family: "Agdasima", sans-serif;
+
+}
+.kontainer{
+  width: 800px;
+  padding: 40px;
+}
+img{
+  width: 100%;
+}
