@@ -27,22 +27,35 @@ body {
     padding: 40px;
     background-color: #e3dbf1;
 }
+.kolumner {
+    display: flex;
+    gap: 20px;
+}
 .box {
     background-color: #5a5a5a;
     color: #ffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
 }
 /* Rubrikerna */
 h1 {
     font-family: "Faster One", system-ui;
     font-size: 60px;
     text-transform: uppercase;
+    margin-bottom: 20px;
 }
 h2 {
-
+    margin-bottom: 20px;
 }
 /* Sidans innehåll */
 img {
     width: 30%;
+    border-radius: 10px;
+    border: 5px solid #ffff;
+    height: 110px;
 }
 p {
 
