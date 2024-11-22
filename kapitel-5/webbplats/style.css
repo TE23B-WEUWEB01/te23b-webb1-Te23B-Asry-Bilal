@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&family=Oswald:wght@200..700&display=swap');
+
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Layoutens utseende */
+
+body {
+    background-color: #a4ac86;
+
+}
+
+.kontainer {
+ width: 900px;
+ padding: 20px;
+ margin: auto;
+ background-color: rgba(147, 102, 57, 0.499);
+}
+
+/* Menyns utseende*/ 
+
+ul {
+ display: flex;
+ list-style-type: none;
+ justify-content: space-between;
+ padding: 20px;
+}
+
+li {
+
+}
+
+a {
+    text-decoration: none;
+    background-color:#414833ff;;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+    width: 140px;
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+/* Innehållets utseende */
+
+h1 {
+  Font-family: "Modak", system-ui;
+  
+}
+
+p{
+    font-family: "Oswald", sans-serif;
+}
+
+.tack {
+
+}
+
+figure {
+
+}
+
+img {
+    width: 100%;
+
+}
+
+figcaption {
+
+}
