@@ -1,0 +1,17 @@
+/* body {
+    background: #000;
+} */
+
+.kontainer {
+    width: 700px;
+    margin: auto;
+    padding: 25px;
+}
+h1 {
+    font-size: 50px;
+    color: darkcyan;
+    text-transform: uppercase;
+}
+p {
+    visibility: hidden;
+}

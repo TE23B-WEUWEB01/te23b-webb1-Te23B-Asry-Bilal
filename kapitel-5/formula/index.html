@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Prenumeration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kontainer">
+        <form action="http://10.151.168.5:3010/" method="post">
+            <fieldset>
+                <legend>Starta prenumeration</legend>
+                <label for="">Förnamn</label><input type="text" name="fnamn">
+                <label for="">Efternamn</label><input type="text" name="enamn">
+                <label for="">Gatuadress</label><input type="text" name="gatuadress">
+                <label for="">Postnr</label><input type="text" name="postnr">
+                <label for="">Postadress</label><input type="text" name="postadress">
+                <label for="">Mobil</label><input type="tel" name="mobil">
+                <label for="">Epost</label><input type="email" name="epost">
+
+                <label for="">Kön</label>
+                <div>
+                    <input type="radio" name="sex" id="">Man
+                    <input type="radio" name="sex" id="">Kvinna
+                    <input type="radio" name="sex" id="">Vill inte ange 
+                </div>
+
+                <label for="">Allergi</label>
+                <div>
+                    <input type="checkbox" name="allergi" id="">Gluten
+                    <input type="checkbox" name="allergi" id="">Nötter
+                    <input type="checkbox" name="allergi" id="">Laktos 
+                </div>
+
+                <label for="">Kommun</label>
+                <select name="kommun" id="">
+                    <option value="1">Stockholm</option>
+                    <option value="2">Sundbyberg</option>
+                    <option value="3">Värmdö</option>
+                    <option value="4">Sollentuna</option>
+                    <option value="5">Jakobsberg</option>
+                </select>
+
+                <label for="">Kommentar</label>
+                <textarea name="kommentar" id="" cols="30" rows="10"></textarea>
+
+                <br><button>Skicka</button>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>
